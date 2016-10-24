@@ -1,0 +1,7 @@
+heads or tails game! 
+games: 17
+win: 10
+lose: 7
+ratio: 1.4285714285714286
+win_in_row: 5
+lose_in_row: 3
